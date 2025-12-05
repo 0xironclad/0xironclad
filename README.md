@@ -16,7 +16,7 @@
 </div>
 
 ```bash
-# 🔴 🟡 🟢  collins@github:~ 
+🔴 🟡 🟢  
 
 ┌─[collins@github]─[~/dev/profile]
 └──╼ $ whoami
@@ -36,7 +36,7 @@
 </div>
 
 ```bash
-# 🔴 🟡 🟢  collins@github:~/dev/profile
+🔴 🟡 🟢 
 
 ┌─[collins@github]─[~/dev/profile]
 └──╼ $ ls -l tech-stack/
@@ -76,7 +76,7 @@
 </div>
 
 ```diff
-# 🔴 🟡 🟢  collins@github:~/dev/profile
+ 🔴 🟡 🟢  
 
 ┌─[collins@github]─[~/dev/profile]
 └──╼ $ cat current_status.json
@@ -100,7 +100,7 @@
 </div>
 
 ```javascript
-// 🔴 🟡 🟢  collins@github:~/dev/profile
+🔴 🟡 🟢  
 
 ┌─[collins@github]─[~/dev/profile]
 └──╼ $ node contact.js
