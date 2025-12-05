@@ -24,7 +24,7 @@
 > Software Engineer focused on clean architecture & system design
 > Enjoys: full-stack dev, backend infra, and AI-powered features
 > Location: Budapest, Hungary 🇭🇺
-> Mission: ship things that scale without falling apart
+> Mission: ship things that scale
 ```
 
 ---
@@ -47,27 +47,22 @@
     <td align="center" width="20%">
       <b>🎨 Frontend</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts" /><br/>
-      <sub>React • Next.js • Tailwind • JS • TS</sub>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="15%">
       <b>⚙️ Backend</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=nodejs,express" /><br/>
-      <sub>Node.js • Express</sub>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="15%">
       <b>🗄️ Database</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /><br/>
-      <sub>PostgreSQL • MySQL • MongoDB</sub>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="25%">
       <b>🚀 DevOps</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux" /><br/>
-      <sub>Docker • Git • GitHub • GitLab • Linux</sub>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="25%">
       <b>🛠️ Others</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,jest,postman" /><br/>
-      <sub>Python • Java • C# • C++ • Jest • Postman</sub>
     </td>
   </tr>
 </table>
