@@ -31,7 +31,7 @@
 
 <div align="center">
 
-## `~/dev/profile $ tree skills/`
+## `~/dev/profile $ ls -l tech-stack/`
 
 </div>
 
@@ -39,36 +39,40 @@
 # ⬤ ⬤ ⬤  collins@github:~/dev/profile
 
 ┌─[collins@github]─[~/dev/profile]
-└──╼ $ tree skills/
-
-skills/
-├── frontend/
-│   ├── React ⚛️
-│   ├── Next.js ▲
-│   └── TailwindCSS 🎨
-├── backend/
-│   ├── Node.js + Express 🚀
-│   ├── Python 🐍
-│   └── Java ☕
-├── databases/
-│   ├── PostgreSQL 🐘
-│   ├── MongoDB 🍃
-│   └── MySQL 🐬
-└── devops/
-    ├── Docker 🐳
-    ├── Git / GitHub 📦
-    └── Linux 🐧
+└──╼ $ ls -l tech-stack/
 ```
 
----
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <b>🎨 Frontend</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts" /><br/>
+      <sub>React • Next.js • Tailwind • JS • TS</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>⚙️ Backend</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,cs" /><br/>
+      <sub>Node.js • Express • Python • Java • C#</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>🗄️ Database</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /><br/>
+      <sub>PostgreSQL • MySQL • MongoDB</sub>
+    </td>
+    <td align="center" width="25%">
+      <b>🚀 DevOps</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux" /><br/>
+      <sub>Docker • Git • GitHub • GitLab • Linux</sub>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
+```bash
+┌─[collins@github]─[~/dev/profile]
+└──╼ $ echo "Also comfortable with: C++, Jest, Postman"
 
-## 💻 Tech Arsenal
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,nodejs,express,python,java,cs,cpp,postgres,mysql,mongodb,docker,git,github,gitlab,linux,jest,postman&perline=11" />
-
-</div>
+Also comfortable with: C++, Jest, Postman
+```
 
 ---
 
@@ -92,7 +96,31 @@ skills/
 - "sleep": false,
   "coffee_level": "██████████ 100%"
 }
+```
 
+---
+
+
+<div align="center">
+
+## `~/dev/profile $ contact --info`
+
+</div>
+
+```javascript
+// ⬤ ⬤ ⬤ collins@github:~/dev/profile
+
+┌─[collins@github]─[~/dev/profile]
+└──╼ $ node contact.js
+
+const contact = {
+  email: "your.email@example.com",
+  linkedin: "https://linkedin.com/in/yourprofile",
+  portfolio: "https://yourportfolio.com",
+  status: "🟢 Open to exciting opportunities"
+};
+
+console.log("Let's build something great together! 🚀");
 ```
 
 
