@@ -83,8 +83,8 @@
 
 {
   "status": "coding",
-  "current_project": "Job Application Tracker API (Node + TS)",
-+ "learning": ["System Design", "Cloud Architecture", "Kubernetes"],
+  "current_project": "Task Scheduler API (Node + TS + PLSQL)",
++ "learning": ["System Design", "Cloud Architecture", "Docker and Containerization"],
   "available_for": ["Collaboration", "Open Source", "Interesting Projects"],
 - "sleep": false,
   "coffee_level": "██████████ 100%"
