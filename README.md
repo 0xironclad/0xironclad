@@ -16,7 +16,7 @@
 </div>
 
 ```bash
-# ⬤ ⬤ ⬤  collins@github:~ 
+# 🔴 🟡 🟢  collins@github:~ 
 
 ┌─[collins@github]─[~/dev/profile]
 └──╼ $ whoami
@@ -36,7 +36,7 @@
 </div>
 
 ```bash
-# ⬤ ⬤ ⬤  collins@github:~/dev/profile
+# 🔴 🟡 🟢  collins@github:~/dev/profile
 
 ┌─[collins@github]─[~/dev/profile]
 └──╼ $ ls -l tech-stack/
@@ -44,35 +44,33 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <b>🎨 Frontend</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts" /><br/>
       <sub>React • Next.js • Tailwind • JS • TS</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <b>⚙️ Backend</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,cs" /><br/>
-      <sub>Node.js • Express • Python • Java • C#</sub>
+      <img src="https://skillicons.dev/icons?i=nodejs,express" /><br/>
+      <sub>Node.js • Express</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <b>🗄️ Database</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /><br/>
       <sub>PostgreSQL • MySQL • MongoDB</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <b>🚀 DevOps</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux" /><br/>
       <sub>Docker • Git • GitHub • GitLab • Linux</sub>
     </td>
+    <td align="center" width="20%">
+      <b>🛠️ Others</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,jest,postman" /><br/>
+      <sub>Python • Java • C# • C++ • Jest • Postman</sub>
+    </td>
   </tr>
 </table>
-
-```bash
-┌─[collins@github]─[~/dev/profile]
-└──╼ $ echo "Also comfortable with: C++, Jest, Postman"
-
-Also comfortable with: C++, Jest, Postman
-```
 
 ---
 
@@ -83,7 +81,7 @@ Also comfortable with: C++, Jest, Postman
 </div>
 
 ```diff
-# ⬤ ⬤ ⬤  collins@github:~/dev/profile
+# 🔴 🟡 🟢  collins@github:~/dev/profile
 
 ┌─[collins@github]─[~/dev/profile]
 └──╼ $ cat current_status.json
@@ -100,7 +98,6 @@ Also comfortable with: C++, Jest, Postman
 
 ---
 
-
 <div align="center">
 
 ## `~/dev/profile $ contact --info`
@@ -108,7 +105,7 @@ Also comfortable with: C++, Jest, Postman
 </div>
 
 ```javascript
-// ⬤ ⬤ ⬤ collins@github:~/dev/profile
+// 🔴 🟡 🟢  collins@github:~/dev/profile
 
 ┌─[collins@github]─[~/dev/profile]
 └──╼ $ node contact.js
@@ -122,7 +119,6 @@ const contact = {
 
 console.log("Let's build something great together! 🚀");
 ```
-
 
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00ff41,100:0f172a&section=footer" width="100%" />
