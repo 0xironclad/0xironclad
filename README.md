@@ -14,7 +14,7 @@
 <!--Tech stack-->
 <div align="center">
 
-### 🧰 Tech Toolbox
+### Tech Stack
 
 </div>
 
@@ -118,7 +118,7 @@
 <!--Activity-->
 <div align="center">
 
-## 📊 Development Activity
+## Development Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xironclad&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" alt="Activity Graph" width="100%"/>
 
