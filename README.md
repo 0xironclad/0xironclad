@@ -11,14 +11,6 @@
 
 <br>
 
-<!--Commits and Most used language-->
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xironclad&theme=aura&utcOffset=8" alt="Productive Time" width="49%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xironclad&theme=aura" alt="Most Commit Language" width="49%" />
-</div>
-
-<br>
-
 <!--Tech stack-->
 <div align="center">
 
