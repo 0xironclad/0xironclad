@@ -1,6 +1,6 @@
 <!--Header-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Collins%20Kipkemoi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Fullstack%20Dev%20|%20AI&descAlignY=55&descAlign=50" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Collins%20Kipkemoi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32" alt="Header"/>
 </div>
 
 <!--Followers and Location-->
@@ -38,6 +38,9 @@
     <!-- Row 2 -->
     <tr>
       <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="36" height="36" alt="FastAPI"/><br><strong>FastAPI</strong><br><sub>Python Framework</sub>
+      </td>
+      <td align="center" width="25%">
         <img src="https://skillicons.dev/icons?i=js" width="36" height="36" alt="JavaScript"/><br><strong>JavaScript</strong><br><sub>Core Language</sub>
       </td>
       <td align="center" width="25%">
@@ -46,12 +49,12 @@
       <td align="center" width="25%">
         <img src="https://skillicons.dev/icons?i=py" width="36" height="36" alt="Python"/><br><strong>Python</strong><br><sub>Scripting & Automation</sub>
       </td>
-      <td align="center" width="25%">
-        <img src="https://skillicons.dev/icons?i=java" width="36" height="36" alt="Java"/><br><strong>Java</strong><br><sub>OOP & Desktop Apps</sub>
-      </td>
     </tr>
     <!-- Row 3 -->
     <tr>
+      <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=java" width="36" height="36" alt="Java"/><br><strong>Java</strong><br><sub>OOP & Desktop Apps</sub>
+      </td>
       <td align="center" width="25%">
         <img src="https://skillicons.dev/icons?i=cpp" width="36" height="36" alt="C++"/><br><strong>C++</strong><br><sub>Systems Programming</sub>
       </td>
@@ -61,12 +64,12 @@
       <td align="center" width="25%">
         <img src="https://skillicons.dev/icons?i=cs" width="36" height="36" alt="C#"/><br><strong>C#</strong><br><sub>OOP</sub>
       </td>
-      <td align="center" width="25%">
-        <img src="https://skillicons.dev/icons?i=php" width="36" height="36" alt="PHP"/><br><strong>PHP</strong><br><sub>Web Backend</sub>
-      </td>
     </tr>
     <!-- Row 4 -->
     <tr>
+      <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=php" width="36" height="36" alt="PHP"/><br><strong>PHP</strong><br><sub>Web Backend</sub>
+      </td>
       <td align="center" width="25%">
         <img src="https://skillicons.dev/icons?i=tailwind" width="36" height="36" alt="Tailwind"/><br><strong>Tailwind</strong><br><sub>CSS Utility</sub>
       </td>
@@ -76,12 +79,12 @@
       <td align="center" width="25%">
         <img src="https://skillicons.dev/icons?i=mysql" width="36" height="36" alt="MySQL"/><br><strong>MySQL</strong><br><sub>Relational DB</sub>
       </td>
-      <td align="center" width="25%">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" alt="MongoDB"/><br><strong>MongoDB</strong><br><sub>NoSQL DB</sub>
-      </td>
     </tr>
     <!-- Row 5 -->
     <tr>
+      <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" alt="MongoDB"/><br><strong>MongoDB</strong><br><sub>NoSQL DB</sub>
+      </td>
       <td align="center" width="25%">
         <img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git"/><br><strong>Git</strong><br><sub>Version Control</sub>
       </td>
@@ -91,20 +94,17 @@
       <td align="center" width="25%">
         <img src="https://skillicons.dev/icons?i=gitlab" width="36" height="36" alt="GitLab"/><br><strong>GitLab</strong><br><sub>CI & Hosting</sub>
       </td>
-      <td align="center" width="25%">
-        <img src="https://cdn.simpleicons.org/linux/000" width="36" height="36" alt="Linux"/><br><strong>Linux</strong><br><sub>Dev Environment</sub>
-      </td>
     </tr>
     <!-- Row 6 -->
     <tr>
+      <td align="center" width="25%">
+        <img src="https://cdn.simpleicons.org/linux/000" width="36" height="36" alt="Linux"/><br><strong>Linux</strong><br><sub>Dev Environment</sub>
+      </td>
       <td align="center" width="25%">
         <img src="https://cdn.simpleicons.org/netlify/000" width="36" height="36" alt="Netlify"/><br><strong>Netlify</strong><br><sub>Deployment</sub>
       </td>
       <td align="center" width="25%">
         <img src="https://skillicons.dev/icons?i=postman" width="36" height="36" alt="Postman"/><br><strong>Postman</strong><br><sub>API Testing</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://cdn.simpleicons.org/selenium/000" width="36" height="36" alt="Selenium"/><br><strong>Selenium</strong><br><sub>Browser Automation</sub>
       </td>
       <td align="center" width="25%">
         <img src="https://cdn.simpleicons.org/vercel/007ACC" width="36" height="36" alt="Vercel"/><br><strong>Vercel</strong><br><sub>Deployment</sub>
@@ -120,12 +120,12 @@
 
 ## Development Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xironclad&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xironclad&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" alt="Activity Graph"/>
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling" alt="Footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=fadeIn" alt="Footer"/>
 </div>
