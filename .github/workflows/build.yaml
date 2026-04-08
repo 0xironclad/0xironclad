@@ -38,4 +38,5 @@ jobs:
           git config --global user.email "github-actions-bot@0xironclad.github.io"
           git config --global user.name "0xironclad/GitHub-Actions-Bot"
           git commit -m "Updated README" -a || echo "No changes to commit"
+          git pull --rebase
           git push
