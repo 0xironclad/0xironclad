@@ -1,6 +1,13 @@
-<a href="https://github.com/0xironclad/0xironclad">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xironclad/0xironclad/main/dark_mode.svg">
-    <img alt="0xironclad's GitHub Profile README" src="https://raw.githubusercontent.com/0xironclad/0xironclad/main/light_mode.svg">
-  </picture>
-</a>
+## Tech Stack
+
+**Languages**
+[![Languages](https://skillicons.dev/icons?i=ts,js,python,java,cpp,cs,php&theme=dark)](https://skillicons.dev)
+
+**Frontend**
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark)](https://skillicons.dev)
+
+**Backend & Databases**
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,redis&theme=dark)](https://skillicons.dev)
+
+**DevOps & Tooling**
+[![DevOps](https://skillicons.dev/icons?i=docker,githubactions,vercel,linux,git&theme=dark)](https://skillicons.dev)
